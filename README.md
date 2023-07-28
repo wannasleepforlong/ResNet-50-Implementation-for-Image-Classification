@@ -14,5 +14,5 @@ Transfer learning, used in machine learning, is the reuse of a pre-trained model
 If a model is trained on a database, there is no need to re-train the model from scratch to fit a new set of similar data.
 This saves lot of time by achieving better performance in fewer epochs.
 
-
+Thanks senpais, for saving our time †(≧◡≦)
 
