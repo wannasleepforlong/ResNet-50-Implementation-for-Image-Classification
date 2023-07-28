@@ -1,5 +1,5 @@
 # ResNet-50-Implementation-for-Image-Classification
-Implementing ResnNet-50 for image classification purposes
+Implementing ResnNet-50 for image classification purposes by transfer learning
 
 ResNet architecture is very good to fight vanishing gradient. In the cases where you train very deep neural networks, gradients tend to become null, the resnet approach can help fight this.
 
