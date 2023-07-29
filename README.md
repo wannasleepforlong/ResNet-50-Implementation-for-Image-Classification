@@ -16,5 +16,5 @@ This saves lot of time by achieving better performance in fewer epochs.
 
 Thanks senpais, for saving our time †(≧◡≦)
 
-I would also like to thank [Nachiketa Hebbar](https://www.youtube.com/watch?v=JcU72smpLJk&ab_channel=NachiketaHebbar) for teaching me. Do check his channel out.
+I would also like to thank [Nachiketa Hebbar](https://www.youtube.com/@NachiketaHebbar) for teaching me. Do check his channel out.
 
